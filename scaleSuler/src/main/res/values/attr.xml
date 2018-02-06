@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ScaleSuler">
+        <attr name="bottomColor" format="color|reference"/>
+        <attr name="centerlineColor" format="color|reference"/>
+        <attr name="maxScale" format="integer"/>
+        <attr name="scaleValue" format="integer"/>
+
+    </declare-styleable>
+</resources>
